@@ -13,7 +13,7 @@
 ### 🔧 Tech Stack
 - **Languages:** Python, SQL  
 - **Data Science:** Pandas, NumPy, Matplotlib  
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab  
+- **Tools:** Git, GitHub, VS Code, Google Colab  
 
 ---
 
