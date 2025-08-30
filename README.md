@@ -24,14 +24,9 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <br>
-  <!-- Web Development -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <br>
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab"/>
 </p>
 
@@ -64,21 +59,12 @@
 
 ---
 
-### 📌 Featured Repositories
-<p align="center">
-<a href="https://github.com/Namishkaushik/DSA">DSA Practice</a> | 
-<a href="https://github.com/Namishkaushik/DBMS">DBMS Notes</a> | 
-<a href="https://github.com/Namishkaushik/Python-Notes">Python Notes & Programs</a> | 
-<a href="https://github.com/Namishkaushik/Statistics">Statistics</a> | 
-<a href="https://github.com/Namishkaushik/Data-Science-Projects">Data Science Projects</a>
-</p>
-
----
-
 ### 📫 Connect with Me
 <p align="center">
-📧 namish595@gmail.com | 
-💼 <a href="https://www.linkedin.com/in/namish-kaushik">LinkedIn</a> | 
+📧 namish595@gmail.com 
+<br>
+💼 <a href="https://www.linkedin.com/in/namish-kaushik">LinkedIn</a> 
+<br>
 🌐 Portfolio: Coming Soon
 </p>
 
