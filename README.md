@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h2 align="center">🎓 B.Voc Software Development (2nd Yr) @ Ramanujan College, DU</h2>
+<h2 align="center">🎓 B.Voc Software Development (2nd Year) @ Ramanujan College, DU</h2>
 <h3 align="center">💻 Learning Data Science | Python | SQL | Statistics | Visualization (Tableau, Power BI)</h3>
 <h3 align="center">🚀 Aspiring Data Scientist</h3>
 
