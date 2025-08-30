@@ -1,6 +1,11 @@
 <!-- Typing Intro -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Namish+Kaushik;Data+Science+Enthusiast;Python+%7C+DBMS+%7C+Statistics+Learner;Always+Learning+Something+New)](https://git.io/typing-svg)
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=Namishkaushik&color=blue)  
+![GitHub Followers](https://img.shields.io/github/followers/Namishkaushik?style=social)
+
+
 # Hi, I'm Namish kaushik 👋  
 
 🎓 **B.Voc in Software Development @ Delhi University**  
