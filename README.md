@@ -65,7 +65,7 @@
 <p align="center">
 📧 namish595@gmail.com 
 <br>
-💼 <a href="www.linkedin.com/in/namish-kaushik-a62aa2339">LinkedIn</a> 
+💼 <a href="https://www.linkedin.com/in/namish-kaushik-a62aa2339">LinkedIn</a> 
 <br>
 🌐 Portfolio: Coming Soon
 </p>
