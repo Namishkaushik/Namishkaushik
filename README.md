@@ -4,7 +4,7 @@
 # Hi, I'm Namish kaushik 👋  
 
 🎓 **B.Voc in Software Development @ Delhi University**  
-💻 Learning **Data Science | Python | DBMS | Statistics**  
+💻 Learning **Data Science | Python | Data Visuaization | Statistics**  
 🌱 Currently working on notes, projects, and problem-solving  
 🚀 Goal: Become a **Data Scientist** and build impactful projects  
 
