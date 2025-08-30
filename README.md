@@ -1,12 +1,12 @@
 <!-- Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Namish;Data+Science+Enthusiast;Python+%7C+DBMS+%7C+Statistics+Learner;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Namish+Kaushik;Data+Science+Enthusiast;Python+%7C+DBMS+%7C+Statistics+Learner;Always+Learningz+Something+New)](https://git.io/typing-svg)
 
-# Hi, I'm Namish 👋  
+# Hi, I'm Namish kaushik 👋  
 
 🎓 **B.Voc in Software Development @ Delhi University**  
 💻 Learning **Data Science | Python | DBMS | Statistics**  
 🌱 Currently working on notes, projects, and problem-solving  
-🚀 Goal: Become a **Data Science Associate** and build impactful projects  
+🚀 Goal: Become a **Data Scientist** and build impactful projects  
 
 ---
 
@@ -26,7 +26,7 @@
 
 ### 🌱 What I'm Learning
 - 📘 Database Management Systems (ER Modeling, SQL, Normalization)  
-- 🐍 Python Programming (Data Science, Automation, Projects)  
+- 🐍 Python Programming (Pandas, Numpy, Matplotlib)  
 - 📊 Statistics (Probability, Distributions, Random Variables)  
 - 🤖 Data Science (ML basics, Kaggle practice, projects)    
 
