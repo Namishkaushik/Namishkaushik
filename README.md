@@ -40,6 +40,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Namishkaushik&theme=radical" alt="GitHub Streak"/>
 </p>
 
+---
+
 ### 👥 Profile Views & Followers
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Namishkaushik&color=blue" alt="Profile Views"/>
@@ -63,7 +65,7 @@
 <p align="center">
 📧 namish595@gmail.com 
 <br>
-💼 <a href="https://www.linkedin.com/in/namish-kaushik">LinkedIn</a> 
+💼 <a href="www.linkedin.com/in/namish-kaushik-a62aa2339">LinkedIn</a> 
 <br>
 🌐 Portfolio: Coming Soon
 </p>
