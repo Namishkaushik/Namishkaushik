@@ -53,9 +53,12 @@
 
 ### 🌱 What I'm Learning
 <p align="center">
-📘 Database Management Systems (ER Modeling, SQL, Normalization)  
-🐍 Python Programming (Data Science, Automation, Projects)  
+📘 Database Management Systems (ER Modeling, SQL, Normalization)
+<br>
+🐍 Python Programming (Data Science, Automation, Projects)
+<br>
 📊 Statistics (Probability, Distributions, Random Variables)  
+<br>
 🤖 Data Science (ML basics, Kaggle practice, projects)
 </p>
 
