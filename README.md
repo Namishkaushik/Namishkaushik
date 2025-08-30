@@ -4,14 +4,14 @@
 # Hi, I'm Namish 👋  
 
 🎓 **B.Voc in Software Development @ Delhi University**  
-💻 Learning **Data Science | Java | DBMS | Statistics**  
+💻 Learning **Data Science | Python | DBMS | Statistics**  
 🌱 Currently working on notes, projects, and problem-solving  
 🚀 Goal: Become a **Data Science Associate** and build impactful projects  
 
 ---
 
 ### 🔧 Tech Stack
-- **Languages:** Python, Java, SQL  
+- **Languages:** Python, SQL  
 - **Data Science:** Pandas, NumPy, Matplotlib  
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab  
 
@@ -26,24 +26,15 @@
 
 ### 🌱 What I'm Learning
 - 📘 Database Management Systems (ER Modeling, SQL, Normalization)  
-- ☕ Java Programming (OOP, Interfaces, Exception Handling, AWT & Swing)  
+- 🐍 Python Programming (Data Science, Automation, Projects)  
 - 📊 Statistics (Probability, Distributions, Random Variables)  
-- 🤖 Data Science (ML basics, Kaggle practice, projects)  
-
----
-
-### 📌 Featured Repositories
-👉 [DSA Practice](https://github.com/Namishkaushik/DSA)  
-👉 [DBMS Notes](https://github.com/Namishkaushik/DBMS)  
-👉 [Java Notes & Programs](https://github.com/Namishkaushik/Java-Notes)  
-👉 [Statistics](https://github.com/Namishkaushik/Statistics)  
-👉 [Data Science Projects](https://github.com/Namishkaushik/Data-Science-Projects)  
+- 🤖 Data Science (ML basics, Kaggle practice, projects)    
 
 ---
 
 ### 📫 Connect with Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/your-link](#)  
+- 📧 Email: **namish595@gmail.com**  
+- 💼 LinkedIn: [Namish Kaushik](https://www.linkedin.com/in/namish-kaushik)  
 - 🌐 Portfolio: *Coming Soon*  
 
 ---
