@@ -12,8 +12,8 @@
 
 ### 🔧 Tech Stack
 - **Languages:** Python, SQL  
-- **Data Science:** Pandas, NumPy, Matplotlib  
-- **Tools:** Git, GitHub, VS Code, Google Colab  
+- **Data Science:** Pandas, NumPy, Matplotlib, Tableau
+- **Tools:** GitHub, VS Code, Google Colab  
 
 ---
 
@@ -34,7 +34,7 @@
 
 ### 📫 Connect with Me
 - 📧 Email: **namish595@gmail.com**  
-- 💼 LinkedIn: [Namish Kaushik](https://www.linkedin.com/in/namish-kaushik)  
+- 💼 LinkedIn: [Namish Kaushik](https://www.linkedin.com/in/namish-kaushik-a62aa2339)  
 - 🌐 Portfolio: *Coming Soon*  
 
 ---
